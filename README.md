@@ -1,10 +1,14 @@
 ## Leonora Schreurs' Portfolio
 
+
+
 You can use the [editor on GitHub](https://github.com/AfricanLeo/Leonora-Schreurs-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Unemployment in Africa : EDA & Vizualisation
+
+![](/images/Depositphotos_44446473_xl-2015.jpg)
 
 The right to earn a decent living is recognised the world over as a basic human right and a means of improving your own life as well as the lives of those dependent on you.  
 
