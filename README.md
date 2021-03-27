@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Leonora Schreurs' Portfolio
 
 You can use the [editor on GitHub](https://github.com/AfricanLeo/Leonora-Schreurs-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Unemployment in Africa : EDA & Vizualisation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The right to earn a decent living is recognised the world over as a basic human right and a means of improving your own life as well as the lives of those dependent on you.  
 
-```markdown
-Syntax highlighted code block
+By analysing, evaluating and visualising data from different sources, this notebook provides insight into the endemic unemployment plagueing the South African 
 
 # Header 1
 ## Header 2
