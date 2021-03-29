@@ -1,7 +1,7 @@
-## Leonora Schreurs' Portfolio
+# Leonora Schreurs' Portfolio
 
 
-![## Unemployment in South Africa](https://africanleo.github.io/Unemployment-in-South-Africa/)
+## [ Unemployment in South Africa](https://africanleo.github.io/Unemployment-in-South-Africa/)
 ### Exploratory Data Analysis & Data Vizualisation
 
 ![](/images/Depositphotos_44446473_xl-2015.jpg)
