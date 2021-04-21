@@ -8,4 +8,7 @@ Unemployment in South Africa has reached crisis levels and current projections s
 
 ![](/images/Depositphotos_44446473_xl-2015.jpg)
    
-## Project 2
+## Know Thy Customer
+### Customer Segmentation using Clustering Methods
+
+This project explores how machine learning, and specifically clustering algorithms can assist the marketing department in a bank to perform customer segmentation on their credit card clients.  
