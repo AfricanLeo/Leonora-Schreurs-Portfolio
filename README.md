@@ -7,12 +7,16 @@
 Unemployment in South Africa has reached crisis levels and current projections show no signs of improvement.  The South African Government cites 6 reasons for the high unemployment. Analysing data from the World Bank Group databank, this notebook sets out to determines if there is data to support these theories.   
 
 ![](/images/Unemployment-fp.jpg)
+
+___
+___
    
-## Know Thy Customer
+## [Know Thy Customer](https://africanleo.github.io/Know-Thy-Customer/)
 ### Customer Segmentation using Clustering Methods
 
 This project explores how machine learning, and specifically clustering algorithms can assist the marketing department in a bank to perform customer segmentation on their credit card clients.  The project looks at three different methods to achieve this. 
 
 ![](/images/Customer-Segmentation-fp.jpg)
 
-
+___
+___
