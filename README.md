@@ -21,10 +21,10 @@ This project explores how machine learning, and specifically clustering algorith
 ___
 ___
 
-## [It's all around us](https://africanleo.github.io//)
+## [It's Out There !](https://africanleo.github.io/Stock-Sentiment-Analysis/)
 ### Sentiment Analysis using Natural Language Processing
 
-The crowd psychology of the stock market, or more formally **stock market sentiment**, plays an important role in the price of a stock.  This project analyses tweets about stock prices and attempts to predict the sentiment of these tweets by employing natural language processing (NLP) techniques. 
+The crowd psychology of the stock market, or more formally **stock market sentiment**, plays an important role in the price of a stock.  This project analyses tweets about stock prices and attempts to **predict the sentiment** of these tweets by employing **natural language processing (NLP)** techniques. 
 ![](images/NLP-Stock-Market.jpg)
 ___
 ___
