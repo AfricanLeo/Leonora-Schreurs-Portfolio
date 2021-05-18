@@ -24,7 +24,7 @@ ___
 ## [It's Out There !](https://africanleo.github.io/Stock-Sentiment-Analysis/)
 ### Sentiment Analysis using Natural Language Processing
 
-The crowd psychology of the stock market, or more formally **stock market sentiment**, plays an important role in the price of a stock.  This project analyses tweets about stock prices and attempts to **predict the sentiment** of these tweets by employing **natural language processing (NLP)** techniques. 
+The [GameStop incident](https://www.nbcnews.com/business/business-news/gamestop-reddit-explainer-what-s-happening-stock-market-n1255922) early in 2021 took the importance of  **stock market sentiment** and the role it plays in determining the price of a stock to a next level.    This project analyses tweets about stock prices and attempts to **predict the sentiment** of these tweets by employing **natural language processing (NLP)** techniques. 
 ![](images/NLP-Stock-Market.jpg)
 ___
 ___
