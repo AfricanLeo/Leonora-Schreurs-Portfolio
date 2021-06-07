@@ -28,3 +28,13 @@ The [GameStop incident](https://www.nbcnews.com/business/business-news/gamestop-
 ![](images/NLP-Stock-Market.jpg)
 ___
 ___
+
+## [Probabilities - Monty Hall Game]
+### Brain Teaser and Probability Puzzle
+
+The Monty Hall problem is a brain teaser, in the form of a **probability puzzle**, loosely based on the American television game show Let's Make a Deal.  As a contender in a game show, should you stick to your original choice or change your door number based on the game host's suggestion?  This project delves into the statistics to determine which is your better option. 
+
+![](images/probabilities-4.jpg)
+___
+___
+
