@@ -3,11 +3,11 @@
 > ### *LATEST PROJECT:  TEXT CLASSIFIER USING BERT TOKENIZER*
 
 ## [Classification with BERT](https://africanleo.github.io/Stock-Sentiment-using-BERT-tok-Part-2/)
-### Exploratory Data Analysis & Data Vizualisation
+### NLP Classifier with BERT-tokeniser
 
-This text classification project builds on part 1, [It's out there ! ](https://africanleo.github.io/Stock-Sentiment-Analysis/) improve on previous attempts by tapping into the power of this potent language model using BERT tokeniser combined with a convolutional neural network for text classification.  
+This NLP (natural language processing) project builds on part 1, [It's out there ! ](https://africanleo.github.io/Stock-Sentiment-Analysis/) to improve the Stock Market Sentiment text classifier by using Google's powerful open sourced BERT  algorithm.  The pre-training as well as the bidirectionality of BERT will hopefully improve results, while we keep the constraint of the limited number (+/- 6,000) of tweets in the dataset.
 
-![](/images/BERT.jpg)
+![](/images/BERT1.jpg)
 
 ___
 ___
