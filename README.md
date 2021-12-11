@@ -1,5 +1,16 @@
 # Leonora Schreurs' Portfolio
 
+> ### *LATEST PROJECT:  TEXT CLASSIFIER USING BERT TOKENIZER*
+
+## [Classification with BERT](https://africanleo.github.io/Stock-Sentiment-using-BERT-tok-Part-2/)
+### Exploratory Data Analysis & Data Vizualisation
+
+This text classification project builds on part 1, [It's out there ! ](https://africanleo.github.io/Stock-Sentiment-Analysis/) improve on previous attempts by tapping into the power of this potent language model using BERT tokeniser combined with a convolutional neural network for text classification.  
+
+![](/images/BERT.jpg)
+
+___
+___
 
 ## [Unemployment in South Africa](https://africanleo.github.io/Unemployment-in-South-Africa/)
 ### Exploratory Data Analysis & Data Vizualisation
