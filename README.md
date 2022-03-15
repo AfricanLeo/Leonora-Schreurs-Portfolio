@@ -2,6 +2,15 @@
 
 > ### *LATEST PROJECT:  TEXT CLASSIFIER USING BERT TOKENIZER*
 
+## [Movie Chatbot](https://github.com/AfricanLeo/Chatbot_TF2_Transformer)
+### Chatbot 
+
+This project implements a chatbot using a Transformer architecture with attention that can generate natural sounding responses that simulate a conversation between humans.  The Transformer chatbot is built from scratch and implemented with Tensorflow 2. The model is trained on the famous Cornell Movie Dialogues Corpus. Evaluation makes use of greedy search- and top-k sampling during text generation to evaluate the model.
+![](/images/chatbot.jpg)
+
+___
+___
+
 ## [Classification with BERT](https://africanleo.github.io/Stock-Sentiment-using-BERT-tok-Part-2/)
 ### NLP Classifier with BERT-tokeniser
 
