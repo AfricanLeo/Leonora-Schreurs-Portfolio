@@ -1,6 +1,6 @@
 # Leonora Schreurs' Portfolio
 
-> ### *LATEST PROJECT:  TEXT CLASSIFIER USING BERT TOKENIZER*
+> ### *LATEST PROJECT:  CHATBOT IN TF2 WITH TRANSFORMER ARCHITECTURE*
 
 ## [Movie Chatbot](https://github.com/AfricanLeo/Chatbot_TF2_Transformer)
 ### Chatbot 
